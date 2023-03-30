@@ -10,10 +10,10 @@
 
 @-webkit-keyframes glow {
     from {
-        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #e63600, 0 0 40px #e63600, 0 0 50px #e63600, 0 0 60px #e63600, 0 0 70px #e63600;
+        text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #400ef2, 0 0 40px #400ef2, 0 0 50px #400ef2, 0 0 60px #400ef2, 0 0 70px #400ef2;
     }
     to {
-        text-shadow: 0 0 20px #fff, 0 0 30px #fa521e, 0 0 40px #fa521e, 0 0 50px #fa521e, 0 0 60px #fa521e, 0 0 70px #fa521e, 0 0 80px #fa521e;
+        text-shadow: 0 0 20px #fff, 0 0 30px #4e1efa, 0 0 40px #4e1efa, 0 0 50px #4e1efa, 0 0 60px #4e1efa, 0 0 70px #4e1efa, 0 0 80px #4e1efa;
     }
 }
 
@@ -38,7 +38,7 @@ h1.title,
 /* start welcome animation */
 
 body.welcome {
-    background: #993CF3;
+    background: #983cf36d;
     overflow: hidden;
     -webkit-font-smoothing: antialiased;
 }
@@ -46,7 +46,7 @@ body.welcome {
 .welcome .splash {
     height: 0px;
     padding: 0px;
-    border: 130em solid #ff4800;
+    border: 130em solid #6235ab;
     position: fixed;
     left: 50%;
     top: 100%;
@@ -138,16 +138,16 @@ body.welcome {
     }
     100% {
         top: 50%;
-        background: #ff4800;
+        background: #3b06e9;
     }
 }
 
 @keyframes materia {
     0% {
-        background: #ff4800;
+        background: #3b06e0;
     }
     50% {
-        background: #ff4800;
+        background: #3b06e0;
         top: 26px;
     }
     100% {
