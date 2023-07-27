@@ -775,14 +775,14 @@ label.valid:after {
 button.button1 {
     margin: 10px;
     padding: 0.35em 1.2em;
-    border: 0.1em solid #3125d7;
+    border: 0.1em solid #10f94aa4;
     border-radius: 0.12em;
     box-sizing: border-box;
     text-decoration: none;
     font-family: 'Roboto', sans-serif;
     font-weight: 800;
     font-size: 2em;
-    color: #3125d7;
+    color: #18f52a;
     text-align: center;
     transition: all 0.2s;
 }
